@@ -15,7 +15,7 @@ This Python script automatically converts all `.html` and `.htm` files in a fold
 Before running the script, make sure you have:
 
 - Python installed (3.x recommended)
-- Microsoft Word installed on your system
+- **Microsoft Word 2016 (or later) installed**
 - Required Python package:
 
 ```bash
